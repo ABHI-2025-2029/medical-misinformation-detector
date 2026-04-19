@@ -1,0 +1,704 @@
+text,label
+"Fever is a symptom that shows the body is responding to illness",real
+"Cold and cough are caused by viruses, not by cold water",real
+"Sweating helps regulate temperature but does not remove toxins",real
+"Thin people can develop diabetes",real
+"Body weight alone does not determine health",real
+"Skipping meals can harm metabolism and blood sugar control",real
+"Cracking knuckles does not cause arthritis",real
+"Walking barefoot has limited health benefits and some risks",real
+"Warm water may soothe digestion but does not cure infections",real
+"Most healthy people do not need daily multivitamins",real
+"Heated honey is safe when consumed normally",real
+"Milk and fish can be eaten together safely",real
+"Eggs are a nutritious source of protein",real
+"Ghee in moderation can be part of a healthy diet",real
+"Bananas do not cause cold or cough",real
+"Rice alone does not cause diabetes",real
+"Sugar alone does not cause hyperactivity in children",real
+"Lemon water does not directly burn fat",real
+"Fruits can be eaten safely at night",real
+"Vegetarian and non-vegetarian diets can both be healthy",real
+"Depression is a medical condition, not just sadness",real
+"Anxiety disorders are treatable medical conditions",real
+"Mental illness does not mean loss of sanity",real
+"Therapy is useful for people of all economic backgrounds",real
+"Meditation supports mental health but does not replace treatment",real
+"Children and teenagers can experience depression",real
+"Talking about suicide openly can reduce risk",real
+"Mental illness is influenced by biology and environment",real
+"Seeking mental health help is a sign of strength",real
+"Marriage does not cure mental illness",real
+"Antibiotics do not work against viral infections",real
+"Tuberculosis spreads through air droplets",real
+"Dengue spreads through mosquito bites",real
+"HIV does not spread through casual touch",real
+"Vaccines do not cause infertility",real
+"Mild fever after vaccination is normal",real
+"Sexually transmitted infections can affect anyone",real
+"Malaria is caused by parasites transmitted by mosquitoes",real
+"Worm infections in children are common and treatable",real
+"Typhoid is caused by contaminated food or water",real
+"Diabetes develops due to insulin resistance and genetics",real
+"Insulin is a safe and effective treatment for diabetes",real
+"Blood pressure medicines protect the heart and kidneys",real
+"Asthma patients benefit from controlled exercise",real
+"Epilepsy is a neurological condition",real
+"Heart attacks can occur in young adults",real
+"Many cancers are treatable or curable when detected early",real
+"Cancer does not spread by touch",real
+"Thyroid disorders cause multiple symptoms, not just weight gain",real
+"Joint pain can have many different causes",real
+"Pregnant women need balanced nutrition, not double food",real
+"Papaya in normal amounts is safe during pregnancy",real
+"Menstrual blood is normal biological tissue",real
+"Bathing during periods is safe and hygienic",real
+"Irregular periods do not always mean infertility",real
+"Breastfeeding benefits both mother and baby",real
+"C-sections are life-saving procedures when needed",real
+"Exercise during pregnancy is usually beneficial",real
+"Morning sickness does not harm the baby",real
+"Severe period pain should be medically evaluated",real
+"Herbal medicines can also have side effects",real
+"Ayurvedic medicines should be used under guidance",real
+"Homeopathy has limited scientific evidence",real
+"No single treatment can cure all diseases",real
+"Cancer requires evidence-based medical treatment",real
+"Immunity improves through nutrition, sleep, and vaccination",real
+"Faith can support coping but not replace treatment",real
+"Oral hygiene is essential to prevent dental disease",real
+"Fasting during illness should be medically supervised",real
+"The liver and kidneys naturally detoxify the body",real
+"Reading in dim light causes eye strain, not blindness",real
+"Screen use causes temporary eye strain",real
+"Earwax protects the ear canal",real
+"Acne is influenced by hormones and oil glands",real
+"Oily skin still needs moisturizer",real
+"Skin colour does not indicate health",real
+"Dandruff is a scalp condition",real
+"Helmets do not cause hair loss",real
+"Kajal does not improve eyesight",real
+"Nose picking does not damage the brain",real
+"Stroke can occur at any age",real
+"Paralysis can improve with rehabilitation",real
+"Brain injury does not always reduce intelligence",real
+"Head injuries vary widely in severity",real
+"People with epilepsy can marry and work",real
+"Migraine is a neurological disorder",real
+"Seizures are not mental illness",real
+"Stress does not cause brain tumors",real
+"Sleep needs vary from person to person",real
+"Thinking deeply does not cause insanity",real
+"Tablets and injections can be equally effective",real
+"Overmedication can be harmful",real
+"Antibiotics should only be taken when prescribed",real
+"Painkillers are safe when used correctly",real
+"Medicines should be taken for the full prescribed duration",real
+"Medical tests help guide accurate diagnosis",real
+"Vaccines strengthen the immune system",real
+"Home remedies cannot replace medical treatment",real
+"Follow-up is essential for long-term disease control",real
+"Drinking water helps digestion by aiding food breakdown",real
+"Small sips of water during meals are safe",real
+"Constipation improves with adequate water intake",real
+"Water supports nutrient absorption",real
+"Excess water does not instantly improve digestion",real
+"Digestive problems need cause-based treatment",real
+"Balanced diet supports gut health",real
+"Fiber is essential for digestion",real
+"Stress can affect digestion",real
+"Sleep quality impacts gut health",real
+"Walking daily reduces risk of chronic disease",real
+"Regular exercise improves insulin sensitivity",real
+"Sleep deprivation worsens mental health",real
+"Chronic stress affects immunity",real
+"Health checkups help detect silent diseases early",real
+"Blood pressure can be high without symptoms",real
+"Diabetes can remain silent for years",real
+"Early treatment prevents complications",real
+"Lifestyle changes reduce disease risk",real
+"Health literacy improves outcomes",real
+"Not all pain indicates severe disease",real
+"Not all diseases cause pain",real
+"Early diagnosis simplifies treatment",real
+"Delaying care increases complications",real
+"Generic medicines are as effective as branded ones",real
+"Doctors use tests to confirm diagnosis",real
+"Trust improves doctor-patient outcomes",real
+"Medical advice must be individualized",real
+"Internet information cannot replace medical evaluation",real
+"Symptoms disappearing does not always mean cure",real
+"Preventive care saves lives",real
+"Vaccination prevents severe disease",real
+"Handwashing reduces infection spread",real
+"Clean water prevents many illnesses",real
+"Nutrition affects immunity",real
+"Sleep supports hormone balance",real
+"Exercise supports heart health",real
+"Stress management improves overall health",real
+"Regular monitoring prevents complications",real
+"Health is influenced by long-term habits",real
+"Sleep supports hormone balance",real
+"Exercise supports heart health",real
+"Stress management improves overall health",real
+"Regular monitoring prevents complications",real
+"Health is influenced by long-term habits",real
+"Balanced nutrition supports immune function",real
+"Hydration is essential for cellular function",real
+"Early symptoms should not be ignored",real
+"Preventive care reduces disease burden",real
+"Health outcomes depend on consistency over time",real
+"Daily walking improves cardiovascular fitness",real
+"Strength training supports bone density",real
+"Flexibility exercises reduce injury risk",real
+"Good posture reduces back and neck pain",real
+"Sedentary lifestyle increases chronic disease risk",real
+"Regular sleep timing improves circadian rhythm",real
+"Late-night screen use reduces sleep quality",real
+"Blue light exposure suppresses melatonin",real
+"Sleep debt affects mental and physical health",real
+"Quality sleep improves memory and learning",real
+"High blood pressure can exist without symptoms",real
+"Regular BP monitoring prevents organ damage",real
+"Blood sugar can rise silently for years",real
+"Routine health screening detects disease early",real
+"Family history increases disease risk",real
+"Genetics interact with lifestyle choices",real
+"Environmental factors influence health outcomes",real
+"Air pollution affects lungs and heart",real
+"Noise pollution disrupts sleep",real
+"Chronic stress affects mental well-being",real
+"Balanced diet includes carbs proteins and fats",real
+"Fiber improves digestion and gut health",real
+"Protein supports muscle repair",real
+"Healthy fats support brain function",real
+"Micronutrients are required in small amounts",real
+"Iron deficiency causes anemia",real
+"Vitamin D supports bone and immune health",real
+"Calcium is needed for muscle contraction",real
+"Excess salt increases blood pressure",real
+"Processed foods raise metabolic risk",real
+"Portion control is key for weight management",real
+"Meal timing affects blood sugar levels",real
+"Skipping meals causes glucose fluctuations",real
+"Adequate water intake supports kidney health",real
+"Kidneys regulate fluid and electrolyte balance",real
+"Liver plays a central role in metabolism",real
+"Pancreas regulates insulin and blood sugar",real
+"Thyroid hormones regulate energy use",real
+"Hormonal imbalance affects mood and energy",real
+"Regular physical activity improves circulation",real
+"Exercise reduces risk of heart disease",real
+"Movement improves joint flexibility",real
+"Physical inactivity increases insulin resistance",real
+"Daily activity improves mental clarity",real
+"Consistent sleep improves immune response",real
+"Poor sleep increases stress hormones",real
+"Sleep deprivation affects decision making",real
+"Sleep supports tissue repair",real
+"Good sleep improves mood stability",real
+"Hydration supports blood volume regulation",real
+"Water helps maintain body temperature",real
+"Adequate hydration supports digestion",real
+"Dehydration causes fatigue and headaches",real
+"Electrolyte balance is vital for nerve function",real
+"Balanced meals stabilize energy levels",real
+"Regular meals prevent overeating",real
+"Fiber intake reduces constipation",real
+"Dietary fiber supports gut bacteria",real
+"Healthy gut improves immunity",real
+"Stress affects digestion and appetite",real
+"Chronic stress raises blood pressure",real
+"Stress management lowers cortisol levels",real
+"Mental relaxation improves physical recovery",real
+"Mind-body connection affects health outcomes",real
+"Routine health checks detect silent diseases",real
+"Early diagnosis improves treatment success",real
+"Delayed treatment increases complications",real
+"Monitoring chronic disease prevents organ damage",real
+"Consistency in care improves outcomes",real
+"Medication adherence improves disease control",real
+"Incorrect dosing reduces treatment effectiveness",real
+"Combining medicines without advice is risky",real
+"Follow-up visits guide treatment changes",real
+"Side effects should be reported early",real
+"Vaccines reduce severity of infections",real
+"Immunization protects vulnerable populations",real
+"Herd immunity reduces disease spread",real
+"Hand hygiene prevents infection transmission",real
+"Safe water prevents gastrointestinal illness",real
+"Food hygiene prevents food poisoning",real
+"Balanced nutrition supports child development",real
+"Good nutrition improves learning ability",real
+"Iron is essential for oxygen transport",real
+"Anemia causes fatigue and weakness",real
+"Vitamin B12 supports nerve health",real
+"Folate is important for cell division",real
+"Calcium supports bone strength",real
+"Protein intake prevents muscle loss",real
+"Aging affects muscle mass gradually",real
+"Strength training slows age-related muscle loss",real
+"Bone density decreases without activity",real
+"Weight-bearing exercise strengthens bones",real
+"Balance training reduces fall risk",real
+"Vision changes can occur with age",real
+"Hearing loss may develop gradually",real
+"Regular eye checks detect early problems",real
+"Noise exposure damages hearing over time",real
+"Skin protects the body from infection",real
+"Sun protection reduces skin damage",real
+"Hydration maintains skin elasticity",real
+"Stress can worsen skin conditions",real
+"Acne is influenced by hormones",real
+"Hormones affect metabolism and mood",real
+"Endocrine balance supports overall health",real
+"Diabetes can remain asymptomatic initially",real
+"Blood sugar control prevents complications",real
+"Regular exercise improves insulin sensitivity",real
+"Weight management improves metabolic health",real
+"Blood pressure control protects kidneys",real
+"Hypertension damages organs silently",real
+"Heart health depends on long-term habits",real
+"Cholesterol balance affects heart disease risk",real
+"Smoking increases cardiovascular risk",real
+"Alcohol affects liver and brain function",real
+"Moderation reduces health risks",real
+"Physical activity improves lung capacity",real
+"Good posture reduces musculoskeletal strain",real
+"Rehabilitation improves functional recovery",real
+"Physiotherapy supports mobility",real
+"Pain management improves quality of life",real
+"Health outcomes improve with patient education",real
+"Health literacy improves decision making",real
+"Regular screening reduces disease mortality",real
+"Preventive medicine lowers healthcare costs",real
+"Vaccination schedules protect across lifespan",real
+"Handwashing reduces respiratory infections",real
+"Clean sanitation lowers diarrheal disease risk",real
+"Safe cooking temperatures prevent infection",real
+"Balanced salt intake supports blood pressure",real
+"Potassium supports nerve and muscle function",real
+"Magnesium aids muscle relaxation",real
+"Omega fats support brain health",real
+"Fiber lowers cholesterol absorption",real
+"Whole foods improve satiety",real
+"Ultra-processed foods increase metabolic risk",real
+"Mindful eating improves portion control",real
+"Regular meals stabilize hormones",real
+"Sunlight supports vitamin D synthesis",real
+"Shade reduces heat-related illness",real
+"Heat hydration prevents cramps",real
+"Cold exposure increases injury risk",real
+"Warm-up reduces exercise injuries",real
+"Stretching maintains range of motion",real
+"Recovery time prevents overuse injury",real
+"Sleep consistency improves alertness",real
+"Naps can restore short-term performance",real
+"Caffeine timing affects sleep quality",real
+"Nicotine raises heart rate and BP",real
+"Secondhand smoke harms lungs",real
+"Alcohol impairs judgment and coordination",real
+"Seatbelts reduce injury severity",real
+"Helmets prevent head injury",real
+"Ergonomic setup reduces neck pain",real
+"Breaks reduce screen eye strain",real
+"Blinking prevents dry eyes",real
+"Regular dental care prevents cavities",real
+"Fluoride strengthens enamel",real
+"Oral health affects systemic health",real
+"Stress reduction lowers inflammation",real
+"Breathing exercises calm nervous system",real
+"Social connection supports longevity",real
+"Purposeful activity improves wellbeing",real
+"Routine supports mental stability",real
+"Sun protection lowers skin cancer risk",real
+"Hydration supports circulation",real
+"Balanced work-rest improves productivity",real
+"Early care shortens recovery",real
+"Fever always means a deadly disease",fake
+"Cold water directly causes cold and cough",fake
+"Sweating removes all toxins from the body",fake
+"Thin people can never get diabetes",fake
+"Fat people are always unhealthy",fake
+"Skipping meals detoxes the body",fake
+"Cracking knuckles causes arthritis",fake
+"Walking barefoot cures all diseases",fake
+"Warm water kills stomach bacteria",fake
+"Everyone needs daily multivitamins",fake
+"Heated honey turns poisonous",fake
+"Milk and fish together cause skin disease",fake
+"Eggs dangerously increase cholesterol",fake
+"Ghee always causes heart attacks",fake
+"Bananas cause cold and sinus",fake
+"Eating rice causes diabetes",fake
+"Sugar makes children hyperactive",fake
+"Lemon water melts fat instantly",fake
+"Fruits eaten at night become fat",fake
+"Vegetarian food is always healthier",fake
+"Depression is just sadness",fake
+"Anxiety means weak mindset",fake
+"Mental illness equals madness",fake
+"Therapy is only for rich people",fake
+"Meditation cures all mental illness",fake
+"Children cannot get depression",fake
+"Talking about suicide increases suicide",fake
+"Mental illness is due to karma",fake
+"Strong people never need help",fake
+"Marriage cures mental illness",fake
+"Antibiotics cure viral fever",fake
+"Stronger antibiotics work faster",fake
+"TB spreads by sharing food",fake
+"Dengue spreads through dirty water only",fake
+"HIV spreads by touching",fake
+"Vaccines cause infertility",fake
+"Vaccine fever is dangerous",fake
+"STDs affect only bad people",fake
+"Malaria is caused by dirt",fake
+"Worms mean poor hygiene only",fake
+"Typhoid comes from oily food",fake
+"Diabetes is caused only by sugar",fake
+"Insulin causes addiction",fake
+"Diabetes medicines damage kidneys",fake
+"Walking barefoot controls diabetes",fake
+"Bitter gourd cures diabetes",fake
+"Diabetes affects only rich people",fake
+"BP rises only when stressed",fake
+"BP medicine is needed only sometimes",fake
+"BP tablets cause lifelong dependence",fake
+"Low BP is always dangerous",fake
+"High BP has clear symptoms",fake
+"Asthma is caused by cold food",fake
+"Inhalers are addictive",fake
+"Asthma patients should avoid sports",fake
+"Asthma always disappears after childhood",fake
+"Epilepsy is contagious",fake
+"Epilepsy is spirit possession",fake
+"Seizures always damage brain",fake
+"Keys in mouth stop seizures",fake
+"Heart attacks happen suddenly always",fake
+"Chest pain always means heart attack",fake
+"Heart disease affects only elderly",fake
+"Women do not get heart attacks",fake
+"Cancer spreads when exposed to air",fake
+"Biopsy spreads cancer",fake
+"Surgery makes cancer worse",fake
+"Cancer is punishment for sins",fake
+"Cancer patients should avoid protein",fake
+"Chemotherapy kills faster than cancer",fake
+"Exercise is unsafe in pregnancy",fake
+"Pregnant women should eat double",fake
+"Papaya always causes miscarriage",fake
+"Travel causes miscarriage",fake
+"Normal delivery is always best",fake
+"C-section babies are weak",fake
+"Breastfeeding weakens mothers",fake
+"Colostrum is dirty milk",fake
+"Period blood is impure",fake
+"Bathing during periods is harmful",fake
+"Exercise during periods is dangerous",fake
+"Periods must stop during illness",fake
+"Irregular periods mean infertility",fake
+"PCOS means no pregnancy possible",fake
+"Menopause ends health problems",fake
+"Herbal medicines have no side effects",fake
+"Ayurveda cures permanently",fake
+"Homeopathy works instantly",fake
+"Natural remedies suit everyone",fake
+"Fasting cures all diseases",fake
+"Detox cleans blood",fake
+"Juice cleanses reset body",fake
+"Oil pulling removes toxins",fake
+"Tongue color diagnoses disease",fake
+"Acupressure repairs organs",fake
+"Dim light ruins eyesight",fake
+"Watching TV closely damages eyes",fake
+"Glasses weaken eyesight",fake
+"Eye exercises remove power",fake
+"Earwax causes deafness",fake
+"Cleaning ears daily improves hearing",fake
+"Oil in ear cures pain",fake
+"Pimples mean dirty blood",fake
+"Oily skin never ages",fake
+"Hair fall means vitamin deficiency",fake
+"Shaving increases hair growth",fake
+"Caps cause baldness",fake
+"Grey hair means stress",fake
+"Stretch marks show weakness",fake
+"Fair skin is healthier",fake
+"Dark skin never burns",fake
+"Stroke happens without warning only",fake
+"Stroke recovery impossible",fake
+"Paralysis means bedrest forever",fake
+"Brain injury means low intelligence",fake
+"Memory loss happens only in old age",fake
+"Migraine is just eye problem",fake
+"Headache means brain tumor",fake
+"Thinking too much damages nerves",fake
+"Sleeping late increases intelligence",fake
+"More sleep makes lazy people",fake
+"Strong medicine cures faster",fake
+"Injections are always better",fake
+"IV fluids speed recovery",fake
+"More vitamins give more energy",fake
+"Stopping medicine early is safe",fake
+"Sharing medicines is okay",fake
+"Expired medicines still work",fake
+"Doctors order tests for money",fake
+"Generic medicines are weak",fake
+"Vaccines weaken immunity",fake
+"Painkillers damage kidneys instantly",fake
+"Pain should always be tolerated",fake
+"Home remedies are safest",fake
+"Google diagnosis is accurate",fake
+"If pain reduces disease is cured",fake
+"Drinking hot water cures all stomach problems",fake
+"Cold showers permanently boost immunity",fake
+"Salt water gargle cures viral infections",fake
+"Steam inhalation kills viruses instantly",fake
+"Eating garlic daily prevents all diseases",fake
+"Turmeric cures every infection",fake
+"Honey alone can replace antibiotics",fake
+"Spicy food burns body fat",fake
+"Eating less makes metabolism faster",fake
+"Skipping dinner leads to long life",fake
+"Drinking milk causes kidney stones",fake
+"Curd should never be eaten in winter",fake
+"Egg yolk is pure cholesterol poison",fake
+"Fruit sugar is never harmful",fake
+"Dates increase body heat dangerously",fake
+"Dry fruits cause pimples",fake
+"Eating ice cream causes pneumonia",fake
+"Cold drinks damage lungs",fake
+"Drinking water during meals stops digestion",fake
+"Standing while eating improves digestion",fake
+"Eating fast improves metabolism",fake
+"Sleeping immediately after eating aids digestion",fake
+"Sleeping on left side damages heart",fake
+"Sleeping on floor cures spine problems",fake
+"Using pillow causes neck problems always",fake
+"Hard mattress cures all back pain",fake
+"Soft mattress damages spine permanently",fake
+"Crossing legs blocks blood circulation",fake
+"Sitting on cold floor causes piles",fake
+"Holding urine causes kidney failure immediately",fake
+"Yellow urine always means liver disease",fake
+"Clear urine means kidneys are weak",fake
+"Dark urine means body heat",fake
+"Frequent urination means diabetes for sure",fake
+"Sweating at night means tuberculosis",fake
+"Weight loss always means cancer",fake
+"Weight gain always means thyroid",fake
+"Hair fall always means hormonal problem",fake
+"Hair oiling stops hair fall permanently",fake
+"Daily head bath causes hair loss",fake
+"Cold oil massage damages scalp",fake
+"Hot oil cures baldness",fake
+"Applying onion juice regrows hair",fake
+"Shampoo causes dandruff",fake
+"Dandruff spreads by touch",fake
+"White hair means calcium deficiency",fake
+"Grey hair can turn black naturally",fake
+"Skin whitening creams improve health",fake
+"Fair people have stronger immunity",fake
+"Dark people absorb less vitamin D",fake
+"Sun exposure always causes cancer",fake
+"Sunlight should be completely avoided",fake
+"Sunscreen blocks vitamin D completely",fake
+"Sweating removes acne toxins",fake
+"Pimples should be popped for healing",fake
+"Toothpaste cures pimples",fake
+"Lemon juice cures dark circles",fake
+"Eye bags mean kidney failure",fake
+"Red eyes mean high BP",fake
+"Eye twitching predicts bad luck",fake
+"Ear ringing means nerve damage always",fake
+"Ear pain always means infection",fake
+"Cleaning ears with sticks is safe",fake
+"Throat pain always needs antibiotics",fake
+"Voice change means throat cancer",fake
+"Cough syrup cures cough fully",fake
+"Persistent cough is always TB",fake
+"Sneezing means allergy only",fake
+"Fever should never be reduced",fake
+"High fever cleans the body",fake
+"Paracetamol damages liver instantly",fake
+"Taking fever medicine hides disease",fake
+"Pain is punishment for past deeds",fake
+"Pain tolerance improves immunity",fake
+"Joint cracking improves flexibility",fake
+"Joint sounds mean arthritis",fake
+"Knee pain means calcium deficiency",fake
+"Back pain means kidney problem",fake
+"Neck pain means cervical spondylosis only",fake
+"Shoulder pain means heart attack",fake
+"Chest pain always means heart issue",fake
+"Heartburn means heart disease",fake
+"Gas pain cannot be serious",fake
+"Acidity causes ulcers always",fake
+"Ulcers are caused by stress only",fake
+"Vomiting cleans stomach toxins",fake
+"Diarrhea should not be stopped",fake
+"Loose motion means food poisoning always",fake
+"Constipation means colon cancer",fake
+"Piles are caused by sitting long",fake
+"Piles can be cured by sitting on hot water",fake
+"Fistula heals without surgery always",fake
+"Appendicitis pain comes and goes",fake
+"Appendix bursts only after days",fake
+"Abdominal pain should be ignored",fake
+"Stomach pain means worms",fake
+"Worms die by eating sweets",fake
+"Worm infections are harmless",fake
+"Deworming weakens children",fake
+"Vaccines cause autism",fake
+"Too many vaccines overload babies",fake
+"Natural infection is safer than vaccine",fake
+"Vaccine immunity fades immediately",fake
+"COVID vaccines change DNA",fake
+"Masks reduce oxygen dangerously",fake
+"Sanitizer enters bloodstream",fake
+"Alcohol kills viruses inside body",fake
+"Smoking clears lungs",fake
+"Smoking improves concentration",fake
+"Occasional smoking is harmless",fake
+"Alcohol improves sleep quality",fake
+"Alcohol warms the body",fake
+"Beer is good for kidneys",fake
+"Wine is medicine",fake
+"Addiction happens only to weak people",fake
+"Stopping alcohol suddenly is safe",fake
+"Drug addiction is easy to quit anytime",fake
+"Mental illness is attention seeking",fake
+"Depression can be cured by travel",fake
+"Anxiety disappears with marriage",fake
+"Panic attacks cause heart attack",fake
+"Panic attacks are imagination",fake
+"Psychiatric medicines cause addiction always",fake
+"Antidepressants change personality",fake
+"Therapy makes people dependent",fake
+"Talking too much worsens depression",fake
+"Silence cures mental illness",fake
+"Exercise cures all mental disorders",fake
+"Music therapy replaces medicine",fake
+"Sleep pills damage brain permanently",fake
+"Sleeping pills are safe daily",fake
+"Dreams predict disease",fake
+"Nightmares mean mental illness",fake
+"Snoring is always harmless",fake
+"Snoring means deep sleep",fake
+"Sleepwalking is dangerous always",fake
+"Talking during sleep means stress",fake
+"Grinding teeth means worms",fake
+"Bedwetting means psychological problem only",fake
+"Children outgrow all illnesses",fake
+"Fever in children is always dangerous",fake
+"Teething causes high fever",fake
+"Vaccines cause fever seizures",fake
+"Seizures mean low intelligence",fake
+"Epilepsy spreads by touch",fake
+"Epilepsy patients should not study",fake
+"Epilepsy patients should not marry",fake
+"Seizures can be stopped by smell",fake
+"Stroke happens suddenly without cause",fake
+"Stroke cannot be prevented",fake
+"Stroke patients never recover",fake
+"Physiotherapy is useless after stroke",fake
+"Brain exercises regrow neurons",fake
+"Brain damage always permanent",fake
+"Memory loss equals dementia",fake
+"Dementia is normal aging",fake
+"Alzheimer happens suddenly",fake
+"Head injury always causes bleeding",fake
+"Minor head injury needs no care",fake
+"Vomiting after head injury is normal",fake
+"Loss of consciousness is not serious",fake
+"BP increases only with tension",fake
+"BP medicines must be stopped once normal",fake
+"BP medicines damage heart",fake
+"Low BP causes sudden death",fake
+"BP should be checked only when sick",fake
+"Pulse rate shows BP accurately",fake
+"Cholesterol has symptoms",fake
+"Cholesterol causes pain",fake
+"Cholesterol medicines damage liver always",fake
+"Statins weaken muscles permanently",fake
+"Heart disease pain always radiates",fake
+"Heart attack pain always severe",fake
+"Silent heart attack is impossible",fake
+"Women heart attacks are rare",fake
+"Young people do not get heart disease",fake
+"Diabetes shows symptoms early",fake
+"Diabetes causes weight loss always",fake
+"Diabetes cured by stopping sugar",fake
+"Diabetes cured by fasting",fake
+"Diabetes medicines poison body",fake
+"Insulin shortens life",fake
+"Checking sugar too often increases sugar",fake
+"Sugar testing causes infection",fake
+"Finger prick damages nerves",fake
+"Diabetes causes wounds only in legs",fake
+"Diabetes affects only old people",fake
+"Thyroid disease only affects women",fake
+"Thyroid cured by diet alone",fake
+"Thyroid medicines cause lifelong damage",fake
+"PCOS is untreatable",fake
+"PCOS caused by mobile phones",fake
+"Periods pain is weakness",fake
+"Periods should not be discussed",fake
+"Periods stop with exercise",fake
+"Periods irregularity always infertility",fake
+"Pregnancy requires full bed rest",fake
+"Travel harms pregnancy",fake
+"Sex during pregnancy is unsafe",fake
+"Stretch marks can be removed fully",fake
+"Breastfeeding spoils body shape",fake
+"Breastfeeding causes hair fall",fake
+"Colostrum should be discarded",fake
+"Formula milk is better than breast milk",fake
+"Baby weight decides intelligence",fake
+"Cry means baby is sick",fake
+"Vaccines cause baby weakness",fake
+"Teething causes diarrhea",fake
+"Fever after delivery is normal always",fake
+"Postpartum depression is drama",fake
+"Menopause means no health risk",fake
+"Hot flashes are imaginary",fake
+"Bone pain always means osteoporosis",fake
+"Calcium cures all bone pain",fake
+"Vitamin injections boost energy instantly",fake
+"Multivitamins prevent all disease",fake
+"Supplements replace food",fake
+"Natural supplements are always safe",fake
+"Detox supplements cleanse organs",fake
+"Herbal teas cure chronic disease",fake
+"Ayurvedic medicines have no interactions",fake
+"Traditional medicine never harms",fake
+"Ancient remedies suit everyone",fake
+"Modern medicine only suppresses symptoms",fake
+"Doctors hide permanent cures",fake
+"Hospitals create illness",fake
+"Medical tests are scams",fake
+"X-rays cause cancer immediately",fake
+"MRI damages brain",fake
+"CT scan burns organs",fake
+"Blood tests weaken body",fake
+"Blood donation causes weakness",fake
+"Blood transfusion transfers personality",fake
+"IV fluids are necessary for fever",fake
+"Hospital food delays recovery",fake
+"Rest alone cures disease",fake
+"Walking barefoot heals nerves",fake
+"Magnet therapy cures pain",fake
+"Copper bracelets cure arthritis",fake
+"Crystals heal organs",fake
+"Astrology predicts disease accurately",fake
+"Palm lines show health problems",fake
+"Evil eye causes illness",fake
+"Black thread prevents disease",fake
+"Lemon and chilli remove illness",fake
+"Chanting cures chronic disease",fake
+"Faith healing replaces treatment",fake
+"Positive thinking cures cancer",fake
+"Laughter cures all diseases",fake
+"Belief alone changes blood reports",fake
+"If symptoms disappear disease is cured",fake
