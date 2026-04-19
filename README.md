@@ -25,3 +25,7 @@ python test.py
 Use Case
 
 Helps identify misleading or harmful medical advice and improves trust in online health information.
+
+Output Screenshot
+
+![Output](output.png)
